@@ -1,0 +1,28 @@
+body {
+    background-color: beige;
+}
+
+h1 {
+    background-color: aqua;
+    color: black;
+}
+
+#P1 {
+    background-color: papayawhip;
+    color: brown;
+}
+
+h2 {
+    background-color: gray;
+    color: green;
+}
+
+#P2 {
+    background-color: lightcyan;
+    color: blue;
+}
+
+ol {
+    background-color: hotpink;
+    color: orangered;
+}
